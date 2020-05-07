@@ -10,6 +10,11 @@ This project uses two Truffle examples provided by GraalVM, `simplelanguage` and
 submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) under
 `external/`.
 
+These projects are used in GraalVM's official documentation:
+
+- [Implement Your Language](https://www.graalvm.org/docs/graalvm-as-a-platform/implement-language/)
+- [Implement Your Tools](https://www.graalvm.org/docs/graalvm-as-a-platform/implement-instrument/)
+
 Both are Maven projects. Project build artifacts can be created with
 `mvn package`.
 

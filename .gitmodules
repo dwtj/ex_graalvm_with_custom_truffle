@@ -1,0 +1,6 @@
+[submodule "external/simpletool"]
+	path = external/simpletool
+	url = https://github.com/graalvm/simpletool.git
+[submodule "external/simplelanguage"]
+	path = external/simplelanguage
+	url = https://github.com/graalvm/simplelanguage.git

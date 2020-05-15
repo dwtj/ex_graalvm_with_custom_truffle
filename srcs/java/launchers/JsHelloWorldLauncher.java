@@ -2,7 +2,7 @@ package launchers;
 
 import org.graalvm.polyglot.Context;
 
-class JSHelloWorldLauncher {
+class JsHelloWorldLauncher {
 
     public static void main(String[] args) {
         runJsHelloWorld();

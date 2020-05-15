@@ -1,6 +1,6 @@
 #!/bin/sh -
 
-PROJECT_ROOT_DIR=$(pwd)
+PROJECT_ROOT_DIR="$(pwd)"
 SIMPLETOOL_JAR="${PROJECT_ROOT_DIR}/external/simpletool/target/simpletool-20.0.0.jar"
 
 # Q(dwtj): What does `--jvm` do? It seems to be required.

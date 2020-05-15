@@ -2,7 +2,7 @@
 
 set -e
 
-PROJECT_ROOT_DIR=$(pwd)
+PROJECT_ROOT_DIR="$(pwd)"
 SIMPLETOOL_JAR="${PROJECT_ROOT_DIR}/external/simpletool/target/simpletool-20.0.0.jar"
 
 PROJECT_ROOT_DIR="$(pwd)"
